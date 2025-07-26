@@ -1,12 +1,15 @@
 class{
 
-<<<<<<< Updated upstream
+
 
 
     int a=0;
-=======
-    
 
 
->>>>>>> Stashed changes
+void m2(){
+
+
+    int b =0;
+}
+
 }
